@@ -12,4 +12,5 @@ function sayHiToGrandma(string){
 }
 function sayHiToGrandma(string){
   if (string.toUpperCase()===string)
+  {return "yes indeed.toUpperCase!"}
 }
